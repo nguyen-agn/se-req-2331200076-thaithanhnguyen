@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:55:33.533Z",
+  "savedAt": "2026-05-27T05:58:31.791Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Nguyen"
+    },
+    {
+      "id": "dac9c92d-1600-45bc-a7e2-dee349c0e465",
+      "title": "NFR Epic 1: Security:",
+      "description": "Security: Student data is sensitive. Under no circumstances should a student be able to see another student schedule.",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "0034bc7c-a473-4bb2-9678-316d7035cfa0",
+      "title": "NFR Epic 2: Perform:",
+      "description": "Perform: If a class is full, instantly the student should not be able to add it to their roadmap.",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "81f79da9-b2bc-4689-b303-8ad25ea302af",
+      "title": "NFR Epic 3: Usability:",
+      "description": "Usability: Always availble when all students accept to register.",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "review",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
