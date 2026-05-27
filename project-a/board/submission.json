@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:38:58.233Z",
+  "savedAt": "2026-05-27T05:43:44.673Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -22,10 +22,20 @@
       "id": "8971157f-ff45-4af4-9b74-35a6a4d792e1",
       "title": "US001: Head of Advising",
       "description": "As a Head of Advising, I want to prevent Students from a asking 'Can I take Course B if I have not done Course A?' so that I can free about 6 hours.\nAcceptance: \n1. Any similar question was prevenet?\n2. Is student with special permission is allow?",
-      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "groupId": "3ed33c53-50a4-420f-9dee-d74cfe765767",
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Nguyen"
+    },
+    {
+      "id": "6eee8daa-d635-40f1-b353-490c22b1966b",
+      "title": "US002: Student",
+      "description": "As a Student, i want to The course catalog is user-friendly, so that easily to use.\nAcceptent criteria:\n1. Is class can be dragged and dropped into canlendar?",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Nguyen"
     }
   ],
