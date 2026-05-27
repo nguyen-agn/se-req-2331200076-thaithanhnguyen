@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:53:25.338Z",
+  "savedAt": "2026-05-27T05:00:19.279Z",
   "groups": [
     {
       "id": "57f366dd-b093-4b0d-9992-950240cac9ca",
@@ -22,8 +22,8 @@
     "ambiguity1": "\"Scan the barcode with my phone camera\" is unclear. Image form scan is too universal, cannot absolutely correct and fix requirements for data structure, even do not count the vary design of textbook.",
     "ambiguity2": "\"The app should force users to select a safe zone before they can chat.\" is ambiguity. Naturally, people chosen books and check if products are avaible. Choose locations first make lowers engagement and effective of app.",
     "conflictSolution": "University Legal Team: want app do not process payments. Students have to pay via Venmo or cash.\nStudent Union President want to take 2% transaction fee to fund club.\n=> If Students pay via cash, app have no way to track\n=> Add 2% fee on price of products, and seller wil give after selling.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Security: Do not allow people from outside coming to buy cheap couches.",
+    "nfr2": "Performance: app must be able to servic all of student even they all access at the same time.",
+    "nfr3": "Usability: UI must clear, easy to use, student without knowledge about technology can use app simple."
   }
 }
