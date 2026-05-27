@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:43:44.673Z",
+  "savedAt": "2026-05-27T05:47:27.365Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -34,6 +34,16 @@
       "description": "As a Student, i want to The course catalog is user-friendly, so that easily to use.\nAcceptent criteria:\n1. Is class can be dragged and dropped into canlendar?",
       "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
       "status": "progress",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Nguyen"
+    },
+    {
+      "id": "b0d8a045-ca13-45e4-ac17-7f1fdbc9bfaf",
+      "title": "US003: Student",
+      "description": "As a students, i want to send questions to advising department, so that i can get a supportions true time.\nAcceptance Criteria:\n1. Can student send question?\n2. Can student reviece Answers?\n3. Can student send extra items like video, image, ...?",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "review",
       "type": "User Story",
       "priority": "High",
       "owner": "Nguyen"
