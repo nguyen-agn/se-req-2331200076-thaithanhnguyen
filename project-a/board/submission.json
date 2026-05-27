@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:30:21.195Z",
+  "savedAt": "2026-05-27T05:38:58.233Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "8971157f-ff45-4af4-9b74-35a6a4d792e1",
+      "title": "US001: Head of Advising",
+      "description": "As a Head of Advising, I want to prevent Students from a asking 'Can I take Course B if I have not done Course A?' so that I can free about 6 hours.\nAcceptance: \n1. Any similar question was prevenet?\n2. Is student with special permission is allow?",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Nguyen"
+    }
+  ],
   "analysis": {
     "ambiguity1": "\"The course catalog is urly\" is not clear. We do not know how to improve? Like change color, size, ...?",
     "ambiguity2": "\"The System needs to stop them from even asking\" is ambiguity. How do we know which questions to stop?",
