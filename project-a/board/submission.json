@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T04:12:46.036Z",
+  "groups": [
+    {
+      "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "3ed33c53-50a4-420f-9dee-d74cfe765767",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "\"The course catalog is urly\" is not clear. We do not know how to improve? Like change color, size, ...?",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
