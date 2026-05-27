@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T11:27:26.725Z",
+  "savedAt": "2026-05-27T11:31:32.512Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -23,10 +23,20 @@
       "title": "US001: Student",
       "description": "As a Student, i want to filter dishes that may cause my gallery, so that i can avoid these dishes.\nAcceptence Critical:\n1. Is Dishes' ingredients recored?\n2. Can app filter dishes ingredients?\n3. Is app collect Student's gallery data?",
       "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
-      "status": "todo",
+      "status": "review",
       "type": "User Story",
       "priority": "Medium",
       "owner": ""
+    },
+    {
+      "id": "9f4dc80c-5d66-4c33-92b7-ef2cdcd1d139",
+      "title": "US002: Student",
+      "description": "As a student, i want get discount of dishes everyday, so that i can save money.\nAcceptence Critical:\n1. Is app allow to apply discount?\n2. Is discountes was releast true time?\n3. Can student get discount properly?",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Low",
+      "owner": "Nguyen"
     }
   ],
   "analysis": {
