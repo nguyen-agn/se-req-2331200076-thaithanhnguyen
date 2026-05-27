@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:00:19.279Z",
+  "savedAt": "2026-05-27T06:03:06.918Z",
   "groups": [
     {
       "id": "57f366dd-b093-4b0d-9992-950240cac9ca",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "96c0b622-7d99-4538-a276-44dcac7e96fb",
+      "title": "US001: Student",
+      "description": "As a Student i want to buy a cheap buy, so that i can save money.\nAcceptence Critical:\n1. Is student can view a selling products?\n2. Is they know about products status, price?",
+      "groupId": "557760c6-20b4-4582-b80d-d37ca7a33154",
+      "status": "review",
+      "type": "User Story",
+      "priority": "High",
+      "owner": ""
+    }
+  ],
   "analysis": {
     "ambiguity1": "\"Scan the barcode with my phone camera\" is unclear. Image form scan is too universal, cannot absolutely correct and fix requirements for data structure, even do not count the vary design of textbook.",
     "ambiguity2": "\"The app should force users to select a safe zone before they can chat.\" is ambiguity. Naturally, people chosen books and check if products are avaible. Choose locations first make lowers engagement and effective of app.",
