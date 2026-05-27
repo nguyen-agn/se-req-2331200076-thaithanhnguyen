@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T11:39:36.184Z",
+  "savedAt": "2026-05-27T11:43:56.379Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -56,6 +56,16 @@
       "status": "progress",
       "type": "User Story",
       "priority": "High",
+      "owner": "Nguyen"
+    },
+    {
+      "id": "7514a06f-4842-4eef-a502-c0baee963fa1",
+      "title": "US005: Chef",
+      "description": "As a chef, i want to easy to mark orders is Sold Old and recognized new order instantly, so that people may not to wait for a long time.\nAcceptence Cirtical:\n1. Is the app synchronous ?\n2. Is Orders display clearly?\n3. Is the chef can easily interface when working?",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": "Nguyen"
     }
   ],
