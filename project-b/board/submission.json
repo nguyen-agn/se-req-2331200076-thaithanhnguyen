@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T06:18:28.552Z",
+  "savedAt": "2026-05-27T06:19:39.920Z",
   "groups": [
     {
       "id": "57f366dd-b093-4b0d-9992-950240cac9ca",
@@ -66,6 +66,36 @@
       "status": "progress",
       "type": "User Story",
       "priority": "High",
+      "owner": ""
+    },
+    {
+      "id": "93597c1d-1fef-4f75-83b7-f2a5400fd193",
+      "title": "NFR Epic 1: Security:",
+      "description": "Security: Do not allow people from outside coming to buy cheap couches.",
+      "groupId": "557760c6-20b4-4582-b80d-d37ca7a33154",
+      "status": "progress",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "70287e30-98cb-41c2-9d8e-168eb5d878d5",
+      "title": "NFR Epic 2: Performance:",
+      "description": "Performance: app must be able to servic all of student even they all access at the same time.",
+      "groupId": "557760c6-20b4-4582-b80d-d37ca7a33154",
+      "status": "review",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "56cf3262-5815-413e-91fb-b4eccfd5f1ba",
+      "title": "NFR Epic 3: Usability:",
+      "description": "Usability: UI must clear, easy to use, student without knowledge about technology can use app simple.",
+      "groupId": "a89dd914-80ad-434b-a81b-f42b95e9832d",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
       "owner": ""
     }
   ],
