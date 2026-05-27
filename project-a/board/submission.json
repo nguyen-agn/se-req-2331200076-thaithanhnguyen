@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:19:39.010Z",
+  "savedAt": "2026-05-27T04:25:09.103Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -21,7 +21,7 @@
   "analysis": {
     "ambiguity1": "\"The course catalog is urly\" is not clear. We do not know how to improve? Like change color, size, ...?",
     "ambiguity2": "\"The System needs to stop them from even asking\" is ambiguity. How do we know which questions to stop?",
-    "conflictSolution": "",
+    "conflictSolution": "Registrar: student cannot  add to their roadmap if class is full. \nHowever Advising Head want students are able to plan 4 years with know class is full yet.\n=> \"Cannot add class when full but add plan without check class\" is conflict\n=> Solution: Using mode/state machine: Devide into 2 modules, 1 for current quaters, 1 for planning.",
     "nfr1": "",
     "nfr2": "",
     "nfr3": ""
