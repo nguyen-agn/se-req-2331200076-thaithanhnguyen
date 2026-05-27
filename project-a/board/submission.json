@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:12:46.036Z",
+  "savedAt": "2026-05-27T04:19:39.010Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "\"The course catalog is urly\" is not clear. We do not know how to improve? Like change color, size, ...?",
-    "ambiguity2": "",
+    "ambiguity2": "\"The System needs to stop them from even asking\" is ambiguity. How do we know which questions to stop?",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
