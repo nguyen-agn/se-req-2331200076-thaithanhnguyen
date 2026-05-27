@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T06:03:06.918Z",
+  "savedAt": "2026-05-27T06:06:06.402Z",
   "groups": [
     {
       "id": "57f366dd-b093-4b0d-9992-950240cac9ca",
@@ -24,6 +24,16 @@
       "description": "As a Student i want to buy a cheap buy, so that i can save money.\nAcceptence Critical:\n1. Is student can view a selling products?\n2. Is they know about products status, price?",
       "groupId": "557760c6-20b4-4582-b80d-d37ca7a33154",
       "status": "review",
+      "type": "User Story",
+      "priority": "High",
+      "owner": ""
+    },
+    {
+      "id": "feafd6a5-fe00-4dc9-9056-9f66f99ad4ea",
+      "title": "US002: Student",
+      "description": "As a Student, I want to sell my old books, so that make some income.\nAcceptence Critical:\n1. Is Student can upload the products information?\n2. CAn products be viewed by others students?",
+      "groupId": "557760c6-20b4-4582-b80d-d37ca7a33154",
+      "status": "done",
       "type": "User Story",
       "priority": "High",
       "owner": ""
