@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:52:06.329Z",
+  "savedAt": "2026-05-27T05:55:33.533Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -54,6 +54,16 @@
       "description": "As a student, i want to plan 4 years ahead plan for studying, so  that i can have a clear learing path plan.\nAcceptance Criteria:\n1. Can student drop & drap class in to 4 years canlendar?\n2. Is student able to add when class is full?\n3. Is classes plannig length 4 years?",
       "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
       "status": "done",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Nguyen"
+    },
+    {
+      "id": "3343c7a0-9e36-4ec0-bde5-53112dfe98ee",
+      "title": "US005: IT Security Officer",
+      "description": "As a IT Security Officer, i want to protect student  data, no one can see studetn's schedule except themselves, so that student data will in protected",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "todo",
       "type": "User Story",
       "priority": "High",
       "owner": "Nguyen"
