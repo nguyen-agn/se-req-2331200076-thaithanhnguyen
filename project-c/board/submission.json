@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:11:13.143Z",
+  "savedAt": "2026-05-27T05:16:19.062Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "\"We need to reduce the queue. I want students to order food on their phone while they are walking from class. The kitchen needs a screen that shows orders as they come in.\" is ambiguity. If all student orders when time up (ex. 11:30) at the same.  The queue is just move from physical to virtual and then physical again for the kitchen.",
-    "ambiguity2": "",
+    "ambiguity2": "\"I need to filter the entire menu\" is ambiguity. A product cannot record all the ingredients of food, or sepate similar ingredients, so app is easy to make  a wrong sense of protection.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
