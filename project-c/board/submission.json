@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:28:00.561Z",
+  "savedAt": "2026-05-27T11:27:26.725Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "ecb029eb-74fc-4760-9a8d-bb61262e5262",
+      "title": "US001: Student",
+      "description": "As a Student, i want to filter dishes that may cause my gallery, so that i can avoid these dishes.\nAcceptence Critical:\n1. Is Dishes' ingredients recored?\n2. Can app filter dishes ingredients?\n3. Is app collect Student's gallery data?",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
+    }
+  ],
   "analysis": {
     "ambiguity1": "\"We need to reduce the queue. I want students to order food on their phone while they are walking from class. The kitchen needs a screen that shows orders as they come in.\" is ambiguity. If all student orders when time up (ex. 11:30) at the same.  The queue is just move from physical to virtual and then physical again for the kitchen.",
     "ambiguity2": "\"I need to filter the entire menu\" is ambiguity. A product cannot record all the ingredients of food, or sepate similar ingredients, so app is easy to make  a wrong sense of protection.",
