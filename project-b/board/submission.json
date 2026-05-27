@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T06:10:04.369Z",
+  "savedAt": "2026-05-27T06:14:16.684Z",
   "groups": [
     {
       "id": "57f366dd-b093-4b0d-9992-950240cac9ca",
@@ -46,6 +46,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "0d682fd8-f8e8-4cd9-a41b-edee1d6dcd3f",
+      "title": "US004: Student Union President",
+      "description": "As Student Union President, i want to take 2% transaction  fee to fund club, so that university will have more club activities.\nAcceptance Critical:\n1. Is app record 2% transaction correctly?\n2. Is all stakeholders knows?",
+      "groupId": "557760c6-20b4-4582-b80d-d37ca7a33154",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Low",
       "owner": ""
     }
   ],
