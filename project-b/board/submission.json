@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T04:42:41.728Z",
+  "groups": [
+    {
+      "id": "57f366dd-b093-4b0d-9992-950240cac9ca",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "557760c6-20b4-4582-b80d-d37ca7a33154",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "a89dd914-80ad-434b-a81b-f42b95e9832d",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "\"Scan the barcode with my phone camera\" is unclear. Image form scan is too universal, cannot absolutely correct and fix requirements for data structure, even do not count the vary design of textbook.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
