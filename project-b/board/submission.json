@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T06:06:06.402Z",
+  "savedAt": "2026-05-27T06:10:04.369Z",
   "groups": [
     {
       "id": "57f366dd-b093-4b0d-9992-950240cac9ca",
@@ -36,6 +36,16 @@
       "status": "done",
       "type": "User Story",
       "priority": "High",
+      "owner": ""
+    },
+    {
+      "id": "892764c5-6d94-49a8-949e-bdff8dc09d61",
+      "title": "US003: Student",
+      "description": "As a student, i want to choose a meeting place, so that i can feel safe and easy to meet.\nAcceptance Critical:\n1. Is students able to choose meeting places?\n2. IS meeting places is list clearly?",
+      "groupId": "557760c6-20b4-4582-b80d-d37ca7a33154",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": ""
     }
   ],
