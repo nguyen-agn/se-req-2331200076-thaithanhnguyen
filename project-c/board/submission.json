@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T11:43:56.379Z",
+  "savedAt": "2026-05-27T11:44:55.893Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Medium",
       "owner": "Nguyen"
+    },
+    {
+      "id": "cd76eed5-7565-4a41-ba4c-e2e540a3aca6",
+      "title": "NFR Epic 1: Security:",
+      "description": "Security: App must protect student information, especially allergy information.",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "8d342b65-99a4-4f4d-8902-b77d0cea4f2c",
+      "title": "NFR Epic 2: Performance:",
+      "description": "Performance: Service must update Sold-Out instansly & push notification at true time.",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "review",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "8670bd90-60c6-4170-8893-804e7e592976",
+      "title": "NFR Epic 3: Usability:",
+      "description": "Usability: App have to filter allergy for students.",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "done",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
