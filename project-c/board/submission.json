@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:16:19.062Z",
+  "savedAt": "2026-05-27T05:22:05.527Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -21,7 +21,7 @@
   "analysis": {
     "ambiguity1": "\"We need to reduce the queue. I want students to order food on their phone while they are walking from class. The kitchen needs a screen that shows orders as they come in.\" is ambiguity. If all student orders when time up (ex. 11:30) at the same.  The queue is just move from physical to virtual and then physical again for the kitchen.",
     "ambiguity2": "\"I need to filter the entire menu\" is ambiguity. A product cannot record all the ingredients of food, or sepate similar ingredients, so app is easy to make  a wrong sense of protection.",
-    "conflictSolution": "",
+    "conflictSolution": "Interview with Chef: \"I need to be able to mark an item as Sold Out instantly.\"\nIT Infrastructure Team: \"The cafeteria basement has terrible Wi-Fi. The kitchen display system needs to be able to work offline for at least 10 minutes without crashing if the internet cuts out\"\n=> With offlinable in 10 minutes, instantly marking SOLD OUT is no way.\n=> update wifi-system of kitchen.",
     "nfr1": "",
     "nfr2": "",
     "nfr3": ""
