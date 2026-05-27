@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T05:11:13.143Z",
+  "groups": [
+    {
+      "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "21668492-035e-41e4-afaf-2f15700ce3aa",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "\"We need to reduce the queue. I want students to order food on their phone while they are walking from class. The kitchen needs a screen that shows orders as they come in.\" is ambiguity. If all student orders when time up (ex. 11:30) at the same.  The queue is just move from physical to virtual and then physical again for the kitchen.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
