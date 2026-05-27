@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:47:27.365Z",
+  "savedAt": "2026-05-27T05:52:06.329Z",
   "groups": [
     {
       "id": "e72bcaae-856e-4db1-9fdc-624bacf18235",
@@ -44,6 +44,16 @@
       "description": "As a students, i want to send questions to advising department, so that i can get a supportions true time.\nAcceptance Criteria:\n1. Can student send question?\n2. Can student reviece Answers?\n3. Can student send extra items like video, image, ...?",
       "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
       "status": "review",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Nguyen"
+    },
+    {
+      "id": "a3fcfa89-1ec7-4c2a-8a42-e939bc561b4f",
+      "title": "US004: Students",
+      "description": "As a student, i want to plan 4 years ahead plan for studying, so  that i can have a clear learing path plan.\nAcceptance Criteria:\n1. Can student drop & drap class in to 4 years canlendar?\n2. Is student able to add when class is full?\n3. Is classes plannig length 4 years?",
+      "groupId": "1c957267-d2a8-4107-b02f-7ba1e3b39bae",
+      "status": "done",
       "type": "User Story",
       "priority": "High",
       "owner": "Nguyen"
