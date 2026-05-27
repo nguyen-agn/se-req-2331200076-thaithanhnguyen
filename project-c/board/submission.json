@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T11:34:47.277Z",
+  "savedAt": "2026-05-27T11:39:36.184Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -44,6 +44,16 @@
       "description": "As a student, i want to know if a dishes is sold out instanstly, so that i dont need to wait for nothing.\nAceeptence critical:\n1. Is SOLD OUT update instanstly?\n2. Is App process synchronous properly?",
       "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
       "status": "done",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Nguyen"
+    },
+    {
+      "id": "33c27ca6-2844-463b-8f40-83002fc41bca",
+      "title": "US004: Manager",
+      "description": "As a kitchen manger, i want app open for order sooner, so that queue time at kitchen will be reduced.\nAcceptance Critical:\n1. Is app open right time?\n2. Does app have a way to identify student & their order?",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "progress",
       "type": "User Story",
       "priority": "High",
       "owner": "Nguyen"
