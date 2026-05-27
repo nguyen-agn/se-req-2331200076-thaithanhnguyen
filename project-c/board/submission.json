@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T11:31:32.512Z",
+  "savedAt": "2026-05-27T11:34:47.277Z",
   "groups": [
     {
       "id": "2801cb2c-3e76-4e77-8cdc-f9d35254e192",
@@ -36,6 +36,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Low",
+      "owner": "Nguyen"
+    },
+    {
+      "id": "91512472-b591-4bf6-b716-0bc6f3c288f0",
+      "title": "US003: Student",
+      "description": "As a student, i want to know if a dishes is sold out instanstly, so that i dont need to wait for nothing.\nAceeptence critical:\n1. Is SOLD OUT update instanstly?\n2. Is App process synchronous properly?",
+      "groupId": "80502c42-d25f-4130-ae07-3a8df1a26ed5",
+      "status": "done",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Nguyen"
     }
   ],
